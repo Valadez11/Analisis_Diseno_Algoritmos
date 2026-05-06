@@ -5,7 +5,7 @@
 ## Bubble Sort
 
 
-![Bubble Sort]("C:\Users\alfon\OneDrive\Pictures\Screenshots\Captura de pantalla (46).png")
+![Bubble Sort]"C:\Users\alfon\OneDrive\Pictures\Screenshots\Captura de pantalla (46).png"
 
 ---
 
