@@ -5,40 +5,40 @@
 ## Bubble Sort
 
 
-![Bubble Sort](bubble.png)
+![Bubble Sort](img/bubble.png)
 ---
 
 ## Insertion Sort
 
 <!-- Espacio para fotografía -->
-![Insertion Sort](insertion.png)
+![Insertion Sort](img/insertion.png)
 
 ---
 
 ## Selection Sort
 
 <!-- Espacio para fotografía -->
-![Selection Sort](selection.png)
+![Selection Sort](img/selection.png)
 
 ---
 
 ## Merge Sort
 
 <!-- Espacio para fotografía -->
-![Merge Sort](merge.png)
+![Merge Sort](img/merge.png)
 
 ---
 
 ## Quick Sort
 
 <!-- Espacio para fotografía -->
-![Quick Sort](quick.png)
+![Quick Sort](img/quick.png)
 
 ---
 
 ## Búsqueda Binaria
 
 <!-- Espacio para fotografía -->
-![Búsqueda Binaria](binaria.png)
+![Búsqueda Binaria](img/binaria.png)
 
 ---
